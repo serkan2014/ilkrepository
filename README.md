@@ -1,0 +1,2 @@
+# ilkrepository
+deneme repom
